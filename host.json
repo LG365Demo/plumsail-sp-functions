@@ -1,1 +1,3 @@
-{"swagger":{"enabled":true}}
+{ "version": "2.0",
+  "swagger":{"enabled":true}
+}
